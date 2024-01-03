@@ -104,7 +104,7 @@ Terminal integration, mainly for building. A pop-up build window like 4coder
 Better error display, jump-to-line, and showing errors at the line they occur on
 
 
-Watchlist-warranting
+Very unimportant
 --------------------
 Interactive chatbot w/ face that helps with stuff (integrate cheat.sh?) and shows emotions. Cute mascot?!?
 It could have its own buffer and a little pop-up interface?
